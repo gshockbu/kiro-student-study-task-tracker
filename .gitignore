@@ -1,0 +1,26 @@
+# Environment and secrets
+.env
+
+# Virtual environments
+.venv/
+venv/
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Packaging / build artifacts
+*.egg-info/
+dist/
+build/
+
+# Tooling caches
+.ruff_cache/
+.pytest_cache/
+
+# Coverage
+.coverage
+htmlcov/
+
+# Local screenshot captures (not part of the project)
+snapshots/
